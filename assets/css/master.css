@@ -2293,7 +2293,7 @@ main {
         >a {
             >i {
                 font-size: 26px;
-                color: var(--color-white);
+                color: black;
                 position: absolute;
                 opacity: .4;
                 visibility: hidden;
