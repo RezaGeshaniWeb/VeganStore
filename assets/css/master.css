@@ -2295,13 +2295,11 @@ main {
                 font-size: 26px;
                 color: black;
                 position: absolute;
-                opacity: .4;
                 visibility: hidden;
                 transition: .2s linear;
                 padding: 10px 30px;
 
                 &:hover {
-                    opacity: 1;
                     color: var(--green-bold);
                 }
             }
